@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # linreg-workshop
 Logistic Regression Workshop for CAIS++ (October 1, 2018)
 
@@ -17,3 +18,6 @@ Corresponding written lesson: [Logistic Regression](http://caisplusplus.usc.edu/
 We want you to post this code on your own GitHub account! 
 
 To get credit for completing the workshop, please create an issue in your repository and tag 'shomikj' so that I can check you off. (https://help.github.com/articles/creating-an-issue/)
+=======
+# machine_learning
+>>>>>>> 9f00394bbcc8f707bdb3c57f277674ed53669268
